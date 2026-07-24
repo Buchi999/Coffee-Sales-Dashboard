@@ -112,9 +112,8 @@ Users can dynamically analyze the data using the following filters:
 
 # Tools Used
 
-- Microsoft Power BI
-- Power Query
-- DAX (Data Analysis Expressions)
+- Excel
+- SQL
 - Data Modeling
 - Interactive Visualizations
 
